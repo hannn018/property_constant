@@ -1,5 +1,5 @@
 <?php
-
+namespace pbo\marketplace;
 class Produk {
 
     //property
